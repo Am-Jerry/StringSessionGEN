@@ -7,7 +7,7 @@ requires = ["poetry>=0.12"]
 name = "genstringsession"
 version = "0.1.0"
 description = "Script for generating Telegram Session in telethon or pyrogram"
-authors = ["SurajRaj4542 <surajraj12444@gmail.com>"]
+authors = ["IAmKarToon <mekartoon.me@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
